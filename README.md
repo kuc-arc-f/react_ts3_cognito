@@ -35,5 +35,7 @@ const awsConfiguration = {
 ***
 ### Blog
 
+https://zenn.dev/knaka0209/articles/014e2e0f72a7e8
+
 ***
 
